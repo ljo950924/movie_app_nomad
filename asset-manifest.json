@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/movie_app_nomad/static/css/main.31d6cfe0.css",
+    "main.js": "/movie_app_nomad/static/js/main.88781712.js",
+    "index.html": "/movie_app_nomad/index.html",
+    "main.88781712.js.map": "/movie_app_nomad/static/js/main.88781712.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.88781712.js"
+  ]
+}
